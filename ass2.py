@@ -7,6 +7,7 @@
 1
 """
 
+# comment is written 
 for number in range(6, 1):
     start = 6
     for digit in range(start, number-1):

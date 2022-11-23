@@ -12,7 +12,6 @@ else:
     print("Numbers equal")
 
 
-
 # Write a Python
 # Ask for users input and make it an integer.
 # If user input is divisible by 2, print Super Nice
