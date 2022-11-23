@@ -12,6 +12,7 @@ Write a Python function that accepts a string and calculate the number of upper 
 
 # Write a Python function to find the Max of four numbers 
 
+
 four_number=[30,40,20,10]
 print(max(four_number))  
 
@@ -75,6 +76,19 @@ lists_multiply([2,3,4,4])
  input=>[1,2,2,3,4,5,7,5,4,4,4,7,9] output=>[1,2,3,4,5,7,9]""" 
 common_occurences = {1,2,2,3,4,5,7,5,4,4,4,7,9}
 print(common_occurences)
+
+def rearrange(number):      
+    digits= 0
+
+
+
+
+
+"""Write a Python function that accepts a string
+ and calculate the number of upper case letters and lower case letters."""
+
+
+
 
 
     
